@@ -28,7 +28,6 @@ while Stadt_Name != "exit":
 print("***geshrieben von Raana Abbasi!***") 
 
 
-
 #zum Beispiel:
 
 #Bitte geben Sie den Namen einer Stadt ein oder exit zum beenden:München
